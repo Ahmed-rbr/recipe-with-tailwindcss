@@ -1,7 +1,7 @@
 # Food Pizza Website
 
 A responsive website built with Tailwind CSS.
-# Demo  (https://ahmed-rbr.github.io/recipe-with-tailwindcss/)
+# Demo  (https://pizza-tailo.netlify.app/)
 ## 🚀 Quick Start
 
 1. **Install dependencies**:
