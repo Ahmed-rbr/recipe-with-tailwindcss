@@ -1,26 +1,30 @@
 # Dependency directories
 node_modules/
 
-# Build output
-dist/
+# Build directories
+/dist/
+/output.css
 
 # Environment files
 .env
 .env.local
+.env*.local
 
-# Logs
+# Log files
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
 
 # Editor directories and files
-.idea
-.vscode
+.idea/
+.vscode/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+.DS_Store
 
-# Tailwind CSS
-/output.css
+# System files
+Thumbs.db
