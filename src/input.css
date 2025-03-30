@@ -1,0 +1,11 @@
+@import "tailwindcss";
+.card {
+  @apply bg-white rounded relative shadow-md overflow-hidden;
+}
+.badge {
+  @apply bg-yellow-400 text-gray-500 text-xs absolute ml-2 mt-2 top-0 uppercase rounded-full p-2 font-bold;
+}
+
+.btn {
+  @apply rounded-full py-2 px-3 uppercase text-xs font-bold cursor-pointer  tracking-wider;
+}
